@@ -51,12 +51,12 @@ jobs:
           fi
 
       - name: Run report
-        run: ./app report /tmp/index.html
+        run: |
+          mkdir -p _site
+          ./app report _site/index.html
 
       - name: Upload report.html as GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
-        with:
-          path: /tmp/index.html
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
