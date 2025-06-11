@@ -33,6 +33,7 @@ jobs:
           role-duration-seconds: "1800"
           role-skip-session-tagging: true
           role-to-assume: ${{ vars.AWS_ROLE_ARN }}
+          mask-aws-account-id: true
 
       - name: Collect data
         run: ./app collect
@@ -50,7 +51,7 @@ jobs:
           fi
 
       - name: Run report
-        run: ./app report > report.html
+        run: ./app report
 
       - name: Upload report.html as GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
