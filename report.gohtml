@@ -1,0 +1,85 @@
+{{define "report"}}
+<html>
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/2.3.2/css/dataTables.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/searchpanes/2.3.3/css/searchPanes.dataTables.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/select/3.0.1/css/select.dataTables.css">
+</head>
+<body>
+<div class="container mt-4">
+  <h1>Lambda AWS SDK Versions</h1>
+  <ul>
+    <li>AWS Lambda bundles AWS SDK with the various runtimes so you don't have to upload it with your code.</li>
+    <li>The SDK version may not update immediately after a new release.</li>
+    <li>This page shows which version is currently available in each runtime and region.</li>
+  </ul>
+  <p>
+    <strong>Last updated: </strong> {{now.UTC.Format "2006-01-02 15:04:05 MST"}}
+  </p>
+  <table id="results" class="table table-striped table-bordered">
+    <thead>
+    <tr>
+      <th>Region</th>
+      <th>Runtime</th>
+      <th>Architecture</th>
+      <th>AWS SDK Version</th>
+      <th>Error</th>
+    </tr>
+    </thead>
+    <tfoot>
+    <tr>
+      <th>Region</th>
+      <th>Runtime</th>
+      <th>Architecture</th>
+      <th>AWS SDK Version</th>
+      <th>Error</th>
+    </tr>
+    </tfoot>
+    <tbody>
+    {{- /*gotype: github.com/CloudSnorkel/lambda-sdk-versions.Results*/ -}}
+    {{range $key, $value := .}}
+      <tr>
+        <td>{{$key.Region}}</td>
+        <td>{{$key.Runtime}}</td>
+        <td>{{$key.Architecture}}</td>
+        {{with index $value 0}}
+          {{if .Error}}
+            <td></td>
+            <td title="{{.Date}}">{{.Error}}</td>
+          {{else}}
+            <td title="{{.Date}}">{{.Version}}</td>
+            <td></td>
+          {{end}}
+        {{end}}
+      </tr>
+    {{end}}
+    </tbody>
+  </table>
+</div>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.datatables.net/2.3.2/js/dataTables.js"></script>
+<script src="https://cdn.datatables.net/searchpanes/2.3.3/js/dataTables.searchPanes.min.js"></script>
+<script src="https://cdn.datatables.net/searchpanes/2.3.3/js/searchPanes.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/select/3.0.1/js/dataTables.select.js"></script>
+<script src="https://cdn.datatables.net/select/3.0.1/js/select.dataTables.js"></script>
+<script>
+  $(document).ready(function() {
+    const table = new DataTable('#results', {
+      order: [[0, 'asc'], [1, 'asc'], [2, 'asc']],
+      pageLength: 100,
+      layout: {
+        top1: {
+          searchPanes: {
+            columns: [0, 1, 2],
+          }
+        }
+      },
+      stateSave: true,
+    });
+  });
+</script>
+</body>
+</html>
+{{end}}

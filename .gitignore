@@ -1,0 +1,31 @@
+# Go build artifacts
+/app
+*.exe
+*.test
+*.out
+
+# Java build artifacts
+/java/target/
+*.class
+*.jar
+*.war
+*.ear
+!java/target/aws-sdk-version-1.0-SNAPSHOT.jar
+
+# Maven
+/logs/
+*.log
+/.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Results and reports
+index.html

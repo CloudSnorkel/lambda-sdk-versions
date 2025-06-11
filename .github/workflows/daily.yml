@@ -1,0 +1,59 @@
+name: Daily Collect and Report
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.24'
+
+      - name: Build
+        run: go build -o app
+
+      - name: Authenticate Via OIDC Role
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-region: us-east-1
+          role-duration-seconds: "1800"
+          role-skip-session-tagging: true
+          role-to-assume: ${{ vars.AWS_ROLE_ARN }}
+
+      - name: Collect data
+        run: ./app collect
+        env:
+          LAMBDA_ROLE_ARN: ${{ vars.LAMBDA_ROLE_ARN }}
+
+      - name: Commit results.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [[ -n $(git status --porcelain results.json) ]]; then
+            git add results.json
+            git commit -m "Update results.json [auto]"
+            git push
+          fi
+
+      - name: Run report
+        run: ./app report > report.html
+
+      - name: Upload report.html as GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: index.html
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}

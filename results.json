@@ -1,0 +1,6602 @@
+{
+  "af-south-1|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:20:58.0116352-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:02.8710046-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:03.5761347-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "af-south-1|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "af-south-1|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "af-south-1|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "af-south-1|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:00.9139426-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "af-south-1|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:00.9201123-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "af-south-1|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:02.4539836-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "af-south-1|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:02.8730401-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "af-south-1|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:20:58.0147769-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:20:58.017463-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:01.1182038-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:20:58.0253791-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:01.2705283-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:01.6182978-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:01.2115783-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:20:58.8448245-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "af-south-1|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:20:58.8499431-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "af-south-1|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "af-south-1|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "af-south-1|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "af-south-1|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "af-south-1|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:20:58.0222235-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "af-south-1|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "af-south-1|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:21:01.9702084-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:21:02.1079197-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:02.8119828-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:02.0577488-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:20:58.0348183-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "af-south-1|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:20:58.835905-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "af-south-1|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "af-south-1|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "af-south-1|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:20:58.0238119-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:02.8319614-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:02.9609958-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "af-south-1|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:21:03.3407683-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "af-south-1|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:21:03.4644484-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "af-south-1|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "af-south-1|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:20:57.0770036-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "af-south-1|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:20:58.854079-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "af-south-1|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:20:58.8651853-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-east-1|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:20.5549962-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:20.783386-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:18.7213807-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:18.7576154-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:21.9342135-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:22.0712887-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:22.2322604-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-east-1|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:22.3108833-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-east-1|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:19.4990984-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-east-1|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:19.5139092-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-east-1|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:23.5543352-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-east-1|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:23.2431635-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-east-1|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:18.469335-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-east-1|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:18.7213807-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-east-1|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:22:20.8878675-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:22:20.9391545-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:23.8650034-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:24.1721645-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:24.5889857-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:24.8939211-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:21.5062757-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:21.6675881-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:22:20.1645757-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:22:20.2519612-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:22.6506178-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-east-1|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:22.7990003-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-east-1|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:22:19.8716882-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-east-1|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:22:19.8882478-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-east-1|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:22:19.9409824-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-east-1|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:22:20.2203456-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-east-1|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:22:21.2737762-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-east-1|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:22:21.6052701-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-east-1|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:22:24.9912253-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:22:25.3105063-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:17.944869-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:17.9849671-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:22:22.4057824-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-east-1|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:22:22.4676985-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-east-1|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:22:18.7653991-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-east-1|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:22:19.0240489-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-east-1|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:22:19.4435349-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:22:19.4980814-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:18.0360091-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:18.2954036-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-east-1|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:22:18.4173298-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-east-1|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:22:18.6809014-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-east-1|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:19.6979505-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-east-1|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:19.855262-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-east-1|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:22:22.8203774-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-east-1|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:22:22.8932107-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-northeast-1|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:00.397852-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:00.9366882-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:06.3124631-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:06.4089799-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:02.0592076-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:02.6349009-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:02.6699874-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-northeast-1|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:02.7295911-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-northeast-1|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:59.4269976-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-1|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:59.4682892-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-1|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:03.4507499-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-1|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:03.7973132-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-1|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:06.1720095-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-1|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:06.2825909-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-1|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:22:00.9755828-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:22:01.4791548-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:04.0254197-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:03.9599386-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:04.5322118-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:05.1376248-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:01.791282-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:02.3500245-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:22:00.3929106-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:22:00.9144958-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:03.110864-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-1|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:03.2100101-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-1|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:22:00.0311529-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-1|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:21:59.8395514-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-1|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:22:00.0343185-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-1|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:22:00.1789497-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-1|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:22:01.4902373-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-1|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:22:01.5611794-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-1|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:22:04.6124913-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:22:05.1851536-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:05.3716635-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:05.5306759-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:22:02.7491346-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-northeast-1|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:22:02.9331752-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-northeast-1|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:22:06.4693041-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-1|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:22:06.474208-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-1|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:21:59.3580808-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:21:59.3801549-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:05.7229555-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:05.9179929-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-1|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:22:06.1122175-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-northeast-1|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:22:06.2754653-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-northeast-1|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:59.4754585-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-northeast-1|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:59.6312485-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-northeast-1|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:22:03.1381633-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-northeast-1|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:22:03.3360352-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-northeast-2|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:51.0596328-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:47.9801462-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:46.4078637-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:46.4239192-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:47.5510846-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:48.1269546-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:47.1571767-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-northeast-2|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:48.850226-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-northeast-2|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:51.4811243-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-2|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:46.6142887-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-2|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:50.5313475-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-2|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:50.6317385-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-2|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:46.4547774-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-2|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:45.8276235-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-2|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:21:49.997339-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:21:50.3729176-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:50.7170354-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:50.7410538-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:44.124931-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:44.9478776-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:47.464398-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:51.0846545-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:21:49.2391372-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:21:49.6670472-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:51.5742531-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-2|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:49.9178324-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-2|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:21:46.8804121-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-2|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:21:48.7224927-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-2|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:21:51.093202-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-2|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:21:47.1304089-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-2|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:21:51.4291626-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-2|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:21:48.19453-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-2|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:21:44.933586-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:21:45.689542-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:45.9498632-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:46.5208275-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:21:48.2573524-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-northeast-2|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:21:51.7727063-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-northeast-2|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:21:45.0899449-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-2|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:21:46.7130435-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-2|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:21:46.8204332-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:21:47.2558668-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:45.683299-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:46.1690697-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-2|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:21:46.57336-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-northeast-2|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:21:52.383049-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-northeast-2|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:46.6627145-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-northeast-2|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:49.2875894-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-northeast-2|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:21:49.9812053-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-northeast-2|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:21:50.0119086-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-northeast-3|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:38.8641137-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:39.1182896-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:43.5541924-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:43.5612657-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:39.6906128-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:39.7077728-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:39.7779475-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-northeast-3|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:39.8652463-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-northeast-3|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:43.8558576-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-3|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:43.6146208-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-3|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:40.8283862-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-3|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:40.9840748-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-3|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:43.1947935-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-3|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:43.529974-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-northeast-3|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:21:39.1618403-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:21:39.4720041-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:41.6902906-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:42.2617277-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:41.8279417-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:42.8031972-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:39.6854633-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:40.2545485-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:21:44.1043948-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:21:44.3831248-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:40.2241572-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-3|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:40.2350653-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-3|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:21:44.3850147-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-3|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:21:45.042178-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-3|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:21:44.9472844-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-3|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:21:44.9676218-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-3|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:21:39.2461939-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-3|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:21:39.5954105-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-3|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:21:42.3758214-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:21:42.5004614-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:42.6964715-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:42.9307227-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:21:39.9221108-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-northeast-3|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:21:40.0153248-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-northeast-3|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:21:43.4892182-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-3|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:21:43.7266337-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-northeast-3|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:21:43.699104-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:21:43.8351026-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:43.164368-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:43.0690703-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-northeast-3|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:21:43.2623466-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-northeast-3|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:21:43.3708844-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-northeast-3|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:44.1114802-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-northeast-3|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:44.2493638-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-northeast-3|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:21:40.4313907-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-northeast-3|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:21:40.4853818-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-south-1|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:06.0661684-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:06.201059-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:04.5043299-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:04.5366451-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:07.3874574-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:07.9254327-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:08.0465542-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-south-1|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:08.1017948-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-south-1|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:04.7418544-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-south-1|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:04.6562756-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-south-1|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:08.7443404-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-south-1|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:08.7794541-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-south-1|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:04.4760091-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-south-1|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:04.4305016-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-south-1|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:21:06.2978057-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:21:06.5437418-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:03.5929531-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:03.6475977-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:03.6713579-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:03.6986548-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:07.306355-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:07.1335519-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:21:05.4632009-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:21:05.3798123-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:08.3875757-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-south-1|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:08.2305008-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-south-1|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:21:05.2799661-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-south-1|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:21:05.2324754-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-south-1|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:21:05.3086459-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-south-1|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:21:05.3311079-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-south-1|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:21:06.8735344-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-south-1|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:21:07.009781-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-south-1|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:21:03.7343931-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:21:03.7531603-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:03.830855-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:03.7995408-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:21:08.1526701-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-south-1|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:21:08.1680866-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-south-1|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:21:04.5817816-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-south-1|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:21:04.5817816-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-south-1|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:21:04.4755045-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:21:04.6171962-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:03.9080297-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:04.3875771-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-south-1|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:21:04.4594931-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-south-1|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:21:04.4230879-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-south-1|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:04.8332927-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-south-1|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:05.2130264-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-south-1|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:21:08.4368336-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-south-1|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:21:08.4400637-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-southeast-1|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:28.1023904-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:28.0104834-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:25.9918276-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:26.0682064-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:29.2774978-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:29.5309717-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:29.5359945-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-southeast-1|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:29.5667508-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-southeast-1|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:26.6164441-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-1|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:26.6236091-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-1|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:30.193366-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-1|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:30.7267685-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-1|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:25.9781764-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-1|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:25.9823428-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-1|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:22:28.1498015-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:22:28.8260631-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:30.2801181-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:31.04666-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:31.3179059-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:31.7858114-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:28.8730486-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:28.9077307-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:22:27.2715252-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:22:28.0844962-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:29.6727956-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-1|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:29.8968712-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-1|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:22:26.8491241-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-1|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:22:27.112898-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-1|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:22:27.1667596-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-1|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:22:27.5918319-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-1|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:22:28.7853755-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-1|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:22:28.8529336-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-1|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:22:32.0726756-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:22:32.5304148-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:32.7109201-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:32.8271965-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:22:29.6440068-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-southeast-1|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:22:29.7727196-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-southeast-1|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:22:26.0020642-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-1|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:22:26.2975344-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-1|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:22:26.3540584-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:22:26.5235232-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:25.0996971-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:25.5922594-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-1|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:22:25.7211215-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-southeast-1|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:22:25.9613192-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-southeast-1|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:26.760707-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-southeast-1|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:26.8377813-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-southeast-1|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:22:30.0337201-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-southeast-1|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:22:30.0959604-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-southeast-2|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:35.5821937-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:36.1520068-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:33.5578833-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:33.636902-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:36.7818056-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:36.8176243-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:36.8527335-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-southeast-2|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:37.1280834-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-southeast-2|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:33.9432428-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-2|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:34.1193333-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-2|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:37.4557292-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-2|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:37.8452535-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-2|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:33.4590103-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-2|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:33.6126919-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-2|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:22:35.8853304-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:22:36.2495776-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:37.4797695-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:38.0663636-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:38.1466205-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:38.7204244-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:36.7312165-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:36.8015573-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:22:35.477203-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:22:35.8176021-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:37.2456152-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-2|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:37.3818853-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-2|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:22:34.3022834-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-2|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:22:34.5606348-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-2|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:22:34.7096291-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-2|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:22:34.561139-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-2|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:22:36.4978473-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-2|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:22:36.5657192-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-2|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:22:38.792526-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:22:39.3851806-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:39.4488747-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:40.0502032-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:22:36.9177558-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-southeast-2|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:22:37.160108-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-southeast-2|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:22:33.7014818-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-2|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:22:33.8479547-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-2|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:22:33.896499-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:22:33.896499-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:32.9500853-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:33.2779951-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-2|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:22:33.3876823-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-southeast-2|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:22:33.4123773-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-southeast-2|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:34.1039713-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-southeast-2|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:34.2398516-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-southeast-2|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:22:37.4014555-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-southeast-2|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:22:37.4519164-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-southeast-3|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:48.459575-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:48.6040621-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:46.5295049-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:46.6033507-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:49.4286842-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:49.6502532-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:49.9097064-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-southeast-3|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:50.0102404-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ap-southeast-3|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:47.3502039-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-3|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:47.4371539-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-3|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:50.9661494-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-3|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:51.0051255-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-3|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:46.3015982-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-3|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:46.4128052-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ap-southeast-3|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:22:48.6364455-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:22:48.8348793-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:51.3445422-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:51.8329368-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:52.1213645-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:52.6473176-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:49.2626834-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:49.4233565-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:22:48.1037046-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:22:48.2172357-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:50.2155733-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-3|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:50.2352218-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-3|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:22:47.7818089-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-3|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:22:47.6237288-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-3|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:22:47.6728642-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-3|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:22:48.2001605-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-3|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:22:48.9378805-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-3|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:22:49.0205865-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-3|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:22:52.7738609-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:22:52.9141573-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:53.2487663-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:53.4826604-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:22:50.0239339-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-southeast-3|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:22:50.0508279-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ap-southeast-3|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:22:46.6118712-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-3|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:22:46.6432086-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ap-southeast-3|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:22:46.8030765-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:22:46.865617-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:45.740432-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:46.0108683-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ap-southeast-3|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:22:45.9771992-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-southeast-3|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:22:46.2348341-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ap-southeast-3|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:47.4026007-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-southeast-3|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:47.4936889-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-southeast-3|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:22:50.2341985-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ap-southeast-3|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:22:50.4509586-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ca-central-1|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:09.2659671-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:09.2000626-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:06.9835431-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:07.0199981-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:09.534603-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:09.594079-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:09.6326562-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ca-central-1|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:09.6367765-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "ca-central-1|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:07.3654915-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ca-central-1|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:08.1196253-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ca-central-1|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:10.6355673-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ca-central-1|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:11.2066823-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ca-central-1|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:06.9371778-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ca-central-1|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:06.9710188-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "ca-central-1|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:22:09.3157274-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:22:09.304004-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:06.4924537-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:06.669901-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:06.5893367-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:06.6897144-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:09.4210713-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:09.5246999-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:22:09.1652969-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:22:09.0502064-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:09.7347802-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ca-central-1|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:09.8912109-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ca-central-1|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:22:08.9654937-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ca-central-1|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:22:08.9763433-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ca-central-1|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:22:07.7661909-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ca-central-1|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:22:09.3673443-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ca-central-1|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:22:09.3831933-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ca-central-1|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:22:09.4117816-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ca-central-1|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:22:06.703062-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:22:06.7729757-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:06.8062402-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:06.7996284-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:22:09.712447-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ca-central-1|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:22:09.7214835-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "ca-central-1|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:22:07.0967248-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ca-central-1|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:22:07.1640553-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "ca-central-1|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:22:07.1188804-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:22:07.2417431-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:06.8647325-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:06.9080045-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "ca-central-1|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:22:06.9049709-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ca-central-1|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:22:06.9109633-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "ca-central-1|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:08.1518706-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ca-central-1|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:08.5175227-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ca-central-1|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:22:09.8112996-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "ca-central-1|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:22:10.0985103-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-central-1|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:41.2969299-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:41.3714352-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:40.0371123-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:40.1276752-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:42.145741-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:42.2955621-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:42.480235-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "eu-central-1|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:42.6259531-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "eu-central-1|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:40.7315991-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-central-1|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:40.6509176-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-central-1|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:43.2714791-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-central-1|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:43.9380631-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-central-1|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:45.5773643-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-central-1|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:45.7207759-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-central-1|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:22:41.4663199-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:22:41.6520911-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:43.7340068-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:44.0846099-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:44.12928-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:44.4053596-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:41.8196719-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:41.968047-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:22:41.0529707-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:22:41.1150225-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:43.1033264-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-central-1|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:43.1103997-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-central-1|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:22:40.8441046-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-central-1|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:22:40.8933493-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-central-1|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:22:40.9474775-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-central-1|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:22:41.0592104-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-central-1|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:22:41.7215939-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-central-1|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:22:41.77112-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-central-1|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:22:44.4434191-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:22:44.7525593-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:44.7958684-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:45.0770568-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:22:42.7978955-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "eu-central-1|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:22:43.0309008-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "eu-central-1|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:22:40.4766493-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-central-1|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:22:40.5077245-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-central-1|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:22:40.5087476-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:22:40.5700093-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:45.1306764-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:45.3901103-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-central-1|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:22:45.4537202-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "eu-central-1|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:22:45.4639488-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "eu-central-1|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:40.7296894-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-central-1|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:40.8343765-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-central-1|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:22:43.1146682-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-central-1|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:22:43.1770105-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-north-1|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:15.8154148-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:15.4755606-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:13.1600552-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:13.1821789-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:16.2260347-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:16.3087267-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:09.2972348-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "eu-north-1|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:09.3328245-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "eu-north-1|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:14.1645014-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-north-1|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:13.9815972-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-north-1|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:11.9341934-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-north-1|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:12.1921644-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-north-1|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:13.0998684-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-north-1|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:13.0977443-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-north-1|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:21:15.512912-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:21:15.8443881-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:12.3295019-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:12.3822645-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:12.4259189-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:12.4451242-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:16.2012652-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:16.2140046-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:21:15.1413897-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:21:15.1178892-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:11.7855778-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-north-1|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:11.8323406-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-north-1|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:21:14.6711432-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-north-1|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:21:14.9409704-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-north-1|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:21:14.9598152-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-north-1|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:21:14.9820894-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-north-1|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:21:15.8955819-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-north-1|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:21:15.8982984-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-north-1|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:21:12.7080147-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:21:12.4643493-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:12.725832-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:12.746448-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:21:11.2423387-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "eu-north-1|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:21:11.291404-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "eu-north-1|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:21:13.5137221-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-north-1|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:21:13.5644073-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-north-1|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:21:13.6081435-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:21:13.7883993-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:12.7964937-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:12.8080798-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-north-1|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:21:12.8330992-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "eu-north-1|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:21:13.0887662-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "eu-north-1|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:14.1678095-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-north-1|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:14.3329762-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-north-1|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:21:11.8578693-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-north-1|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:21:11.9272217-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-south-1|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:31.4205992-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:28.104513-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:24.9360789-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:25.052439-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:22.3373365-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:22.4379637-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:22.4977587-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "eu-south-1|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:22.5196663-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "eu-south-1|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:25.4628993-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-south-1|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:25.6707317-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-south-1|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:23.3400557-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-south-1|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:23.8908721-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-south-1|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:24.7680698-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-south-1|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:24.8772282-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-south-1|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:21:28.4912802-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:21:28.5536971-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:24.1102068-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:24.119275-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:24.200915-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:24.1823644-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:22.0022862-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:22.436268-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:21:27.3404068-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:21:26.3757144-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:22.8227646-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-south-1|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:22.820982-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-south-1|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:21:25.8945127-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-south-1|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:21:25.8838168-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-south-1|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:21:26.0642025-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-south-1|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:21:26.756043-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-south-1|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:21:32.0761555-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-south-1|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:21:29.3685372-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-south-1|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:21:24.4916104-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:21:24.8566148-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:24.6205822-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:24.5101922-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:21:22.7357627-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "eu-south-1|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:21:22.8067794-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "eu-south-1|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:21:25.2208529-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-south-1|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:21:25.0043623-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-south-1|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:21:25.3035184-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:21:25.4236683-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:24.250193-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:24.5618506-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-south-1|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:21:24.5897034-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "eu-south-1|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:21:24.5356732-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "eu-south-1|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:25.7024322-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-south-1|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:25.809374-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-south-1|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:21:23.1466723-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-south-1|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:21:22.9314228-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-west-1|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:38.8912295-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:38.793415-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:36.2608542-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:36.3021682-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:33.7605844-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:33.8688488-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:34.0279139-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "eu-west-1|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:34.0445744-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "eu-west-1|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:36.9531349-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-1|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:37.2626711-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-1|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:34.1096092-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-1|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:34.3942537-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-1|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:36.2422446-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-1|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:36.2980975-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-1|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:21:33.5884255-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:21:33.6437459-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:34.5838302-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:35.2174786-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:34.4975323-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:34.9450798-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:33.6883197-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:34.0400613-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:21:38.0932273-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:21:38.757518-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:34.1031385-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-1|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:34.2107078-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-1|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:21:37.5851494-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-1|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:21:37.7829786-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-1|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:21:38.425064-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-1|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:21:37.8281465-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-1|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:21:33.60491-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-1|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:21:33.7550722-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-1|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:21:35.607102-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:21:35.2715483-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:35.5535439-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:37.2346557-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:21:36.5983769-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "eu-west-1|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:21:36.6507511-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "eu-west-1|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:21:36.605416-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-1|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:21:36.678562-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-1|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:21:36.9147282-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:21:37.0061414-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:35.9034913-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:35.8963908-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-1|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:21:35.9058352-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "eu-west-1|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:21:35.9715865-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "eu-west-1|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:37.3381242-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-west-1|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:37.4568133-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-west-1|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:21:34.8371571-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-west-1|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:21:34.3827084-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-west-2|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:31.7962483-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:27.427076-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:33.4385742-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:33.5341796-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:29.0530395-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:28.6279991-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:28.4917848-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "eu-west-2|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:28.3276679-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "eu-west-2|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:30.5953275-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-2|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:29.2570627-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-2|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:31.1115939-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-2|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:31.2040591-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-2|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:33.3721004-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-2|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:33.3855683-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-2|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:21:28.2353228-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:21:27.9939429-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:31.7757527-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:32.1042063-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:32.428111-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:32.8274512-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:27.8483696-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:32.7382879-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:21:27.7202647-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:21:28.1638233-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:32.4244624-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-2|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:28.6285029-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-2|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:21:27.586411-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-2|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:21:27.6026566-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-2|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:21:27.6165085-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-2|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:21:27.7050256-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-2|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:21:27.9439582-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-2|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:21:28.0275438-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-2|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:21:33.1317-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:21:32.9900746-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:33.0419825-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:33.0563621-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:21:32.8776352-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "eu-west-2|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:21:31.3883233-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "eu-west-2|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:21:28.8502908-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-2|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:21:28.9304312-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-2|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:21:28.9401934-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:21:28.7086605-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:33.0623792-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:33.3083209-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-2|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:21:33.3624126-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "eu-west-2|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:21:33.36445-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "eu-west-2|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:30.1034787-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-west-2|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:27.8382275-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-west-2|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:21:30.8639051-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-west-2|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:21:30.7365814-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-west-3|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:17.6564802-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:17.6987273-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:20.8914986-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:22.1153462-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:18.4465942-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:18.7609-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:18.5986176-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "eu-west-3|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:19.0807128-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "eu-west-3|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:16.5938272-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-3|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:16.6614116-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-3|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:20.1517427-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-3|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:20.4692664-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-3|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:21.6392907-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-3|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:21.7853158-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "eu-west-3|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:21:17.8276436-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:21:17.9692888-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:20.5984498-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:20.1578354-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:20.8945853-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:22.8446673-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:18.1517435-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:18.2741794-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:21:17.3951848-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:21:17.5109716-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:19.3038904-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-3|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:19.4415315-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-3|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:21:16.7999405-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-3|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:21:16.8478295-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-3|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:21:16.9365-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-3|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:21:16.9427778-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-3|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:21:18.0148161-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-3|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:21:18.1167037-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-3|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:21:21.8230228-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:21:22.0185778-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:22.526561-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:21.5016316-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:21:19.1502194-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "eu-west-3|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:21:19.1654383-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "eu-west-3|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:21:22.2783322-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-3|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:21:22.3031864-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "eu-west-3|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:21:16.5724314-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:21:16.5792822-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:21.6467657-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:21.1844836-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "eu-west-3|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:21:21.1922098-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "eu-west-3|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:21:21.9462949-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "eu-west-3|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:16.7273474-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-west-3|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:16.6703617-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-west-3|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:21:20.0904618-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "eu-west-3|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:21:19.6172691-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "me-south-1|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:58.7141956-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:58.7199961-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:56.4246085-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:56.6078374-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:51.80222-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:52.6409352-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:52.4451251-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "me-south-1|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:53.2414994-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "me-south-1|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:57.2936033-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "me-south-1|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:57.2682597-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "me-south-1|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:54.1802929-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "me-south-1|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:54.5918664-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "me-south-1|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:21:56.2332011-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "me-south-1|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:21:56.372851-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "me-south-1|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:21:58.7784364-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:21:58.8378481-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:54.2820589-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:54.9309425-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:54.9550297-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:55.1423583-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:51.0031852-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:51.7221311-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:21:58.0840812-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:21:58.1391824-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:21:53.2858712-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "me-south-1|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:21:53.8384169-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "me-south-1|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:21:57.69829-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "me-south-1|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:21:57.7130662-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "me-south-1|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:21:57.8960971-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "me-south-1|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:21:58.1097059-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "me-south-1|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:21:59.3436353-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "me-south-1|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:21:59.3601436-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "me-south-1|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:21:55.0925559-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:21:55.5666453-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:55.6044033-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:55.7971996-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:21:53.1684188-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "me-south-1|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:21:53.2763664-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "me-south-1|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:21:56.7304538-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "me-south-1|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:21:56.8181699-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "me-south-1|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:21:57.2568536-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:21:57.0603168-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:21:55.7514976-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:21:56.0710762-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "me-south-1|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:21:56.1648878-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "me-south-1|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:21:56.2224924-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "me-south-1|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:21:57.4239333-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "me-south-1|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:21:57.6880818-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "me-south-1|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:21:53.8015798-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "me-south-1|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:21:54.0062466-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "sa-east-1|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:13.115478-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:13.37168-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:17.4972553-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:17.5290158-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:14.0435155-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:14.2812904-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:14.0652605-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "sa-east-1|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:14.3819106-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "sa-east-1|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:12.1381018-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "sa-east-1|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:12.4269013-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "sa-east-1|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:14.7391288-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "sa-east-1|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:15.1404618-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "sa-east-1|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:16.6436286-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "sa-east-1|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:16.7418194-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "sa-east-1|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:22:13.5166165-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:22:13.573154-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:15.0847645-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:15.3428628-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:15.5350724-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:15.6839667-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:13.837087-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:14.0408115-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:22:12.9213002-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:22:13.0796044-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:14.4554654-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "sa-east-1|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:14.5344821-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "sa-east-1|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:22:12.481019-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "sa-east-1|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:22:12.5955789-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "sa-east-1|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:22:12.4895113-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "sa-east-1|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:22:12.6874437-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "sa-east-1|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:22:13.7665656-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "sa-east-1|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:22:13.9587147-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "sa-east-1|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:22:15.7800582-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:22:15.873633-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:15.9924525-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:16.1425256-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:22:14.3977-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "sa-east-1|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:22:14.4859628-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "sa-east-1|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:22:17.5307879-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "sa-east-1|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:22:17.851662-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "sa-east-1|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:22:11.9059522-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:22:11.922856-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:16.2057997-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:16.3069532-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "sa-east-1|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:22:16.4356507-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "sa-east-1|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:22:16.6019252-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "sa-east-1|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:12.261183-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "sa-east-1|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:12.4716717-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "sa-east-1|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:22:14.4914295-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "sa-east-1|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:22:14.8471443-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-east-1|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:56.8080011-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:56.8496473-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:55.4049283-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:55.3294028-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:53.5525493-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:53.7467107-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:53.8076062-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "us-east-1|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:53.8185916-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "us-east-1|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:56.1979307-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-east-1|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:55.9361754-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-east-1|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:54.277425-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-east-1|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:54.2977843-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-east-1|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:54.7478295-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-east-1|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:54.7773506-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-east-1|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:22:56.8569794-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:22:56.8791216-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:54.4706987-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:54.5277317-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:54.5321249-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:54.5471314-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:53.6618452-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:53.736678-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:22:56.754749-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:22:56.7931693-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:53.9505474-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-1|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:54.0272209-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-1|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:22:56.2389572-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-1|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:22:56.4593326-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-1|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:22:56.3607817-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-1|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:22:56.620363-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-1|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:22:56.9171716-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-1|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:22:56.9265345-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-1|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:22:54.6060387-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:22:54.6227785-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:54.6079155-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:54.6233055-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:22:53.8675888-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "us-east-1|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:22:53.9336427-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "us-east-1|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:22:55.4812185-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-1|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:22:55.7822364-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-1|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:22:55.8488814-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:22:55.8716299-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:54.6733062-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:54.6882166-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-1|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:22:54.6892641-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "us-east-1|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:22:54.6933834-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "us-east-1|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:55.9179249-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-east-1|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:56.2850924-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-east-1|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:22:54.0656175-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-east-1|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:22:54.2278201-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-east-2|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:01.9471319-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:02.0626409-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:00.6128264-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:00.73169-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:57.2091239-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:57.3233298-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:57.3338791-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "us-east-2|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:57.3495769-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "us-east-2|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:00.8569167-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-east-2|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:00.9446473-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-east-2|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:58.7034929-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-east-2|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:58.8615204-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-east-2|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:22:59.8853352-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-east-2|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:22:59.8969243-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-east-2|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:23:02.0096672-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:23:02.121142-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:22:59.3867766-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:22:59.4262574-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:59.5013432-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:59.5445604-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:56.9435021-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:57.1706122-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:23:01.8415602-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:23:01.8945008-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:22:58.0023452-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-2|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:22:58.1624914-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-2|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:23:01.3451251-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-2|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:23:01.6048066-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-2|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:23:01.7455371-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-2|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:23:01.8178477-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-2|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:23:02.1595677-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-2|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:23:02.2290169-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-2|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:22:59.6170376-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:22:59.6734744-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:59.6764176-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:59.7309863-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:22:57.4341701-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "us-east-2|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:22:57.9953093-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "us-east-2|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:23:00.6144152-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-2|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:23:00.7973941-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-east-2|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:23:00.837744-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:23:00.8488784-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:22:59.7678848-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:22:59.7928393-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-east-2|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:22:59.7991957-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "us-east-2|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:22:59.8421196-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "us-east-2|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:23:00.95791-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-east-2|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:23:01.0967994-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-east-2|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:22:58.2019527-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-east-2|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:22:58.343555-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-west-1|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:05.6097606-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:05.6700438-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:02.8103714-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:02.8533498-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:05.9627474-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:05.970546-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:06.0555531-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "us-west-1|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:06.0776361-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "us-west-1|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:03.2854769-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-west-1|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:03.3004937-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-west-1|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:06.9474245-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-west-1|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:07.2017452-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-west-1|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:02.7669562-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-west-1|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:02.7674606-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-west-1|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:23:05.7038454-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:23:05.8456325-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:23:02.1673454-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:23:02.2363725-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:23:02.2755477-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:23:02.3550145-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:23:05.921974-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:23:05.9339328-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:23:05.4531737-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:23:05.5966802-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:23:06.1750725-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-1|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:23:06.2153825-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-1|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:23:03.6318023-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-1|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:23:04.1145231-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-1|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:23:05.1071989-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-1|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:23:05.1375911-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-1|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:23:05.8557216-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-1|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:23:05.9133792-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-1|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:23:02.2855479-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:23:02.5142906-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:23:02.5170646-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:23:02.5200417-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:23:06.0920109-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "us-west-1|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:23:06.1576653-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "us-west-1|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:23:02.8339642-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-1|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:23:02.919638-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-1|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:23:03.0534876-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:23:03.101806-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:23:02.5261191-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:23:02.6029186-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-1|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:23:02.7619863-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "us-west-1|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:23:02.7644509-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "us-west-1|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:23:03.3138426-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-west-1|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:23:03.343241-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-west-1|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:23:06.2230574-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-west-1|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:23:06.7213765-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-west-2|nodejs10.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:10.950562-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|nodejs10.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:11.0742093-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|nodejs12.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:08.8461603-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|nodejs12.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:08.9566116-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|nodejs14.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:11.4411091-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|nodejs14.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:11.5131066-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|nodejs16.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:11.4604341-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "us-west-2|nodejs16.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:11.5263591-04:00",
+      "version": "2.1374.0"
+    }
+  ],
+  "us-west-2|nodejs18.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:09.2208939-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-west-2|nodejs18.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:09.3421678-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-west-2|nodejs20.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:11.7223693-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-west-2|nodejs20.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:11.8016786-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-west-2|nodejs22.x|arm64": [
+    {
+      "date": "2025-06-10T21:23:08.373009-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-west-2|nodejs22.x|x86_64": [
+    {
+      "date": "2025-06-10T21:23:08.6300351-04:00",
+      "version": "3.774.0"
+    }
+  ],
+  "us-west-2|nodejs4.3-edge|arm64": [
+    {
+      "date": "2025-06-10T21:23:11.173362-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|nodejs4.3-edge|x86_64": [
+    {
+      "date": "2025-06-10T21:23:11.1794203-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|nodejs4.3|arm64": [
+    {
+      "date": "2025-06-10T21:23:12.2622347-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|nodejs4.3|x86_64": [
+    {
+      "date": "2025-06-10T21:23:12.5200128-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|nodejs6.10|arm64": [
+    {
+      "date": "2025-06-10T21:23:07.38701-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|nodejs6.10|x86_64": [
+    {
+      "date": "2025-06-10T21:23:07.7750591-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|nodejs8.10|arm64": [
+    {
+      "date": "2025-06-10T21:23:11.3666355-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|nodejs8.10|x86_64": [
+    {
+      "date": "2025-06-10T21:23:11.4394247-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|nodejs|arm64": [
+    {
+      "date": "2025-06-10T21:23:10.7977535-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|nodejs|x86_64": [
+    {
+      "date": "2025-06-10T21:23:10.9123688-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|python3.10|arm64": [
+    {
+      "date": "2025-06-10T21:23:11.6770763-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-2|python3.10|x86_64": [
+    {
+      "date": "2025-06-10T21:23:11.7102143-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-2|python3.11|arm64": [
+    {
+      "date": "2025-06-10T21:23:09.413213-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-2|python3.11|x86_64": [
+    {
+      "date": "2025-06-10T21:23:09.4969154-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-2|python3.12|arm64": [
+    {
+      "date": "2025-06-10T21:23:10.3697071-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-2|python3.12|x86_64": [
+    {
+      "date": "2025-06-10T21:23:10.4390951-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-2|python3.13|arm64": [
+    {
+      "date": "2025-06-10T21:23:11.2121332-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-2|python3.13|x86_64": [
+    {
+      "date": "2025-06-10T21:23:11.3076013-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-2|python3.6|arm64": [
+    {
+      "date": "2025-06-10T21:23:07.4770568-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|python3.6|x86_64": [
+    {
+      "date": "2025-06-10T21:23:07.7750591-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|python3.7|arm64": [
+    {
+      "date": "2025-06-10T21:23:08.052332-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|python3.7|x86_64": [
+    {
+      "date": "2025-06-10T21:23:08.0562117-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|python3.8|arm64": [
+    {
+      "date": "2025-06-10T21:23:11.5619467-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "us-west-2|python3.8|x86_64": [
+    {
+      "date": "2025-06-10T21:23:11.6218102-04:00",
+      "version": "1.34.145"
+    }
+  ],
+  "us-west-2|python3.9|arm64": [
+    {
+      "date": "2025-06-10T21:23:08.9167099-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-2|python3.9|x86_64": [
+    {
+      "date": "2025-06-10T21:23:08.9842113-04:00",
+      "version": "1.35.92"
+    }
+  ],
+  "us-west-2|ruby2.5|arm64": [
+    {
+      "date": "2025-06-10T21:23:09.1222951-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|ruby2.5|x86_64": [
+    {
+      "date": "2025-06-10T21:23:09.2193204-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|ruby2.7|arm64": [
+    {
+      "date": "2025-06-10T21:23:08.3565971-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|ruby2.7|x86_64": [
+    {
+      "date": "2025-06-10T21:23:08.2719133-04:00",
+      "error": "runtime is deprecated and no longer supported"
+    }
+  ],
+  "us-west-2|ruby3.2|arm64": [
+    {
+      "date": "2025-06-10T21:23:08.3634825-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "us-west-2|ruby3.2|x86_64": [
+    {
+      "date": "2025-06-10T21:23:08.5406159-04:00",
+      "version": "1.184.0"
+    }
+  ],
+  "us-west-2|ruby3.3|arm64": [
+    {
+      "date": "2025-06-10T21:23:09.3506115-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-west-2|ruby3.3|x86_64": [
+    {
+      "date": "2025-06-10T21:23:09.4017173-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-west-2|ruby3.4|arm64": [
+    {
+      "date": "2025-06-10T21:23:11.7121011-04:00",
+      "version": "1.185.0"
+    }
+  ],
+  "us-west-2|ruby3.4|x86_64": [
+    {
+      "date": "2025-06-10T21:23:11.7273079-04:00",
+      "version": "1.185.0"
+    }
+  ]
+}
