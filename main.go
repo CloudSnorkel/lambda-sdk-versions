@@ -333,10 +333,16 @@ func generateHTML(results Results) {
 	if err != nil {
 		log.Fatalf("failed to load template: %v", err)
 	}
-	f, _ := os.Create("index.html")
+
+	targetFile := "index.html"
+	if len(os.Args) > 2 {
+		targetFile = os.Args[2]
+	}
+
+	f, _ := os.Create(targetFile)
 	defer f.Close()
 	if err := t.Execute(f, results); err != nil {
 		log.Fatalf("failed to execute template: %v", err)
 	}
-	fmt.Println("HTML report generated: report.html")
+	log.Printf("HTML report generated: %s", targetFile)
 }
