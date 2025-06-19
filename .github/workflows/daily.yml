@@ -9,7 +9,6 @@ jobs:
   build-and-publish:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
       id-token: write
       pages: write
       contents: write
