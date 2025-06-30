@@ -164,7 +164,7 @@ func collectData() {
 
 		mu.Lock()
 		defer mu.Unlock()
-		if existing, ok := resultsMap[key]; !ok || len(existing) == 0 || existing[len(existing)-1].Version != res.Version || existing[len(existing)-1].Error != res.Error {
+		if existing, ok := resultsMap[key]; !ok || len(existing) == 0 || existing[0].Version != res.Version || existing[0].Error != res.Error {
 			resultsMap[key] = append([]Result{res}, resultsMap[key]...)
 		}
 	}
