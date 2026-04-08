@@ -1,13 +1,13 @@
 module github.com/CloudSnorkel/lambda-sdk-versions
 
-go 1.24.4
+go 1.25.0
 
 require (
 	github.com/aws/aws-sdk-go-v2 v1.41.5
 	github.com/aws/aws-sdk-go-v2/config v1.29.15
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.224.1
 	github.com/aws/aws-sdk-go-v2/service/lambda v1.88.5
-	golang.org/x/sync v0.15.0
+	golang.org/x/sync v0.20.0
 )
 
 require (
