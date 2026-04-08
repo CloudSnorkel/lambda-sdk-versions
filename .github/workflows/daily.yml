@@ -57,7 +57,7 @@ jobs:
           ./app report _site/index.html
 
       - name: Upload report.html as GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
