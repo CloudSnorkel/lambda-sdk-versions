@@ -195,7 +195,7 @@ func collectData() {
 		}
 
 		for err, count := range seen {
-			log.Println("[%d] %s", count, err)
+			log.Printf("[%d] %s\n", count, err)
 		}
 	}
 
