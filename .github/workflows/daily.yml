@@ -28,7 +28,7 @@ jobs:
         run: go build -o app
 
       - name: Authenticate Via OIDC Role
-        uses: aws-actions/configure-aws-credentials@v4
+        uses: aws-actions/configure-aws-credentials@v6
         with:
           aws-region: us-east-1
           role-duration-seconds: "1800"
