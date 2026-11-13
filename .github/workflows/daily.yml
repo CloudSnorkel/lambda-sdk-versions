@@ -6,11 +6,10 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-and-publish:
+  build:
     runs-on: ubuntu-latest
     permissions:
       id-token: write
-      pages: write
       contents: write
     steps:
       - name: Checkout code
@@ -59,7 +58,16 @@ jobs:
       - name: Upload report.html as GitHub Pages artifact
         uses: actions/upload-pages-artifact@v5
 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v5
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
